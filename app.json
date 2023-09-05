@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2c483c1d-30f1-4557-88ae-a1c1cfb4d582"
+      }
+    },
+    "owner": "hmontoya"
   }
 }
