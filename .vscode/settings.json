@@ -14,5 +14,6 @@
     "editor.suggest.insertMode": "replace",
     "gitlens.codeLens.scopes": ["document"],
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "cSpell.words": ["hmontoya", "pokemon", "pokemons", "Pokemons"]
 }
